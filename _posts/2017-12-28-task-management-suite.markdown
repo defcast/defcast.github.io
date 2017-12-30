@@ -30,7 +30,7 @@ highlighter: rouge
 
 In the screenshot above there is a project called `Google Shaka Player`. Within that project there is a list of tasks organized under custom categories. In this instance those categories are `Preliminary`, `Design`, and `Development`.
 
-In the paid version of [Asana] you are able add `custom fields` to your projects. This is useful since it lets users to:
+In the paid version of [Asana] you are able to add `custom fields` to your projects. This is useful since it lets users to:
 
 
 - Add certain data to all the tasks in a project
@@ -51,7 +51,7 @@ This is the same task shown in the [Github] repository issues section
 
 ![github]({{ "/assets/img/github-issue.png" | absolute_url }})
 
-In this instance the integration was established using the [Github] `Applications` settings. It uses OAUTH to eliminate the need for users to know the password to the [G]ithub] repository to generate tasks. It uses the [Asana] API to allow Github to generate the tasks in Asana.
+In this instance the integration was established using the [Github] `Applications` settings. It uses OAUTH to eliminate the need for users to know the password to the [Github] repository to generate tasks. It uses the [Asana] API to allow Github to generate the tasks in Asana.
 
 There are upwards of 100 applications available for integration with Github. These allow integrating [Github] with tools like:
 
