@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduction to the Sandbox"
+title:  "Introducing Defcast News"
 date:   2017-12-11 19:28:58 -0800
-categories: jekyll update
+categories: blog
 ---
 There are far too many development environments, languages tools, and packagers out there for developing web sites that it's seriously difficult to make a decision on just one suite, especially since you may like some features from one language but you prefer the development environment of the other.
 

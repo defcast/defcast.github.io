@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Defcast News
+<br />
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Defcast News is static site that uses `Front Matter` to generate the web pages and posts used for this site as well as components of other Defcast sites. Every line of code, every post, and every file used to create this site is open source and available at the [Defcast Github Repository](http://github.com/defcast/defcast.github.io).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+##### Defcast aims to be the world's best:
 
+- Provider of tailored data link solutions
+- Specialist of systems that offer access to linked aircraft live streaming content using any device in realtime
+- Integration solutions for automating operations allowing clients to focus on the video and content
 
-[jekyll-organization]: https://github.com/jekyll
