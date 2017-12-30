@@ -6,7 +6,7 @@ categories: dev
 author: Allen Wheeler
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/sandbox-synced-blue.svg)][sandbox-sync]
+[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync]
 [![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec]
 [![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
 
@@ -14,11 +14,11 @@ highlighter: rouge
 [page-sec]: https://sks-keyservers.net/
 [cipher]: https://en.wikipedia.org/wiki/Cipher
 
-- Google Shaka Player
+### Google Shaka Player
 
 ![shaka]({{ "/assets/img/shaka-log.png" | absolute_url }})
 
-- Sublime Text
+### Sublime Text
 
 ![sublime]({{ "/assets/img/sublime-php.png" | absolute_url }})
 
