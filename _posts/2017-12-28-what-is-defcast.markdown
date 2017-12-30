@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Is Defcast?"
+title:  "What Is Defcast"
 date:   2017-12-28 19:12:00 -0800
 categories: defcast
 author: Allen Wheeler
