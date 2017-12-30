@@ -13,22 +13,39 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Defcast Sandbox
+
+# tautomate the tagging an image with a caption:    {% imgc img/picture.png|This is an image caption text %}
+
+
+title: Defcast News
 email: awheeler@defcast.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Defcast sandbox for Jekyll Liquid template language. 
-  Focus on becoming more familiar with tags, Sass, SVG,
-  and Git practices.
+  Defcast news, updates, and resources
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://defcast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alienwheeler
 github_username:  defcast
+
+
+# #Badge Left Text
+badge: build
+# #Badge Right Text  
+status : static
 
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
+
+#image:
+#  feature: 
+#  thumb: thumbnail-img.png 
+#  credit:
+#  creditlink: http://instagram.com
+
+#link: http://defcon-us.slack.com
+
 
 # Build settings
 markdown: kramdown
