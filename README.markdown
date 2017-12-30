@@ -1,4 +1,4 @@
-# Defcast Sandbox
+# Defcast News and Docs
 
 [![Pages Build](https://img.shields.io/badge/sandbox-active-brightgreen.svg)][defcast-git]
 
