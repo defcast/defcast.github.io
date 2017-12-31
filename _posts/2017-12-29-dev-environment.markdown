@@ -14,6 +14,9 @@ highlighter: rouge
 [page-sec]: https://sks-keyservers.net/
 [cipher]: https://en.wikipedia.org/wiki/Cipher
 
+<hr>
+<br>
+
 ### Google Shaka Player
 
 ![shaka]({{ "/assets/img/shaka-log.png" | absolute_url }})

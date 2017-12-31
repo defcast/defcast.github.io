@@ -4,6 +4,10 @@ title:  "Introducing Defcast News"
 date:   2017-12-11 19:28:58 -0800
 categories: blog
 ---
+
+<hr>
+<br>
+
 There are far too many development environments, languages tools, and packagers out there for developing web sites that it's seriously difficult to make a decision on just one suite, especially since you may like some features from one language but you prefer the development environment of the other.
 
 Then there are so many useless tutorials flooding the internet and Youtube that it takes maximum effort just to find one to help you with what you're looking for. It's nonsense.

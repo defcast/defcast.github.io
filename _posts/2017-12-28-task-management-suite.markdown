@@ -21,6 +21,9 @@ highlighter: rouge
 [Asana]: https://asana.com
 [Unito]: https://unito.io
 
+<hr>
+<br>
+
 [Asana] is a task manager geared towards groups and organizations as opposed to the task managers most are familiar with designed to manage an individual's tasks. At first glance it isn't obvious how useful it can be. After exploring it's features and other tools that are available for integration with [Asana] I've put together this presentation to demonstrate a small sample of what can be accomplished using it.
 <br />
 
@@ -33,10 +36,10 @@ In the screenshot above there is a project called `Google Shaka Player`. Within 
 In the paid version of [Asana] you are able to add `custom fields` to your projects. This is useful since it lets users to:
 
 
-- Add certain data to all the tasks in a project
-- Track tasks across projects (e.g., priority, time allotment, platform, client)
+- Add specified data to all the tasks in a project
+- Track details across projects (e.g., priority, time allotment, platform, client)
 - Ensure users fill out particular information for each task in a project
-- Sort or search tasks and prjects by specific data fields
+- Sort or search tasks and projects by specific data fields
 
 [Asana] also allows the use of `tags` for searching and categorizing tasks and while that is useful too it's less formal. 
 
