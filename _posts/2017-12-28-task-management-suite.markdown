@@ -6,7 +6,6 @@ categories: task management
 author: Allen Wheeler
 highlighter: rouge
 ---
-
 [![sync](http://img.shields.io/badge/repository-synced-blue.svg)][repos-sync]
 [![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec]
 [![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
@@ -24,14 +23,14 @@ highlighter: rouge
 <hr>
 <br>
 
-[Asana] is a task manager geared towards groups and organizations as opposed to the task managers most are familiar with designed to manage an individual's tasks. At first glance it isn't obvious how useful it can be. After exploring it's features and other tools that are available for integration with [Asana] I've put together this presentation to demonstrate a small sample of what can be accomplished using it.
+[Asana] is a task manager geared towards groups and organizations as opposed to the task managers most are familiar with designed to manage an individual's tasks. At first glance it isn't obvious how useful it can be.
 <br />
 
 
 ![asana shaka]({{ "/assets/img/asana-shaka.png" | absolute_url }})
 
 
-In the screenshot above there is a project called `Google Shaka Player`. Within that project there is a list of tasks organized under custom categories. In this instance those categories are `Preliminary`, `Design`, and `Development`.
+In the screenshot above there is a project called `Google Shaka Player`. Within that project there is a list of tasks organized under custom categories. In this instance those categories are `Preliminary`, `Design` and `Development`.
 
 In the paid version of [Asana] you are able to add `custom fields` to your projects. This is useful since it lets users to:
 
@@ -48,7 +47,7 @@ Here is an Asana project synced with a [Github] software repository
 
 ![asana wordpress]({{ "/assets/img/asana-wp.png" | absolute_url }})
 
-Whenever an issue is created by any subscriber to the repository a task is created in the project with the prefix `DC-WP-Issue-#` and every member of the project is notified. Alternately, any task created in the [Asana] project is added as an issue to the software repository.
+Whenever an issue is created by any subscriber to the repository a task is created in the project with the prefix `DC-WP-Issue-##` and every member of the project is notified. Alternately, any task created in the [Asana] project is added as an issue to the software repository.
 
 This is the same task shown in the [Github] repository issues section
 
@@ -86,7 +85,9 @@ The [IFTTT] interface makes managing existing applets simple. Some examples of f
 - Generate device notifications
 - Log virtually anything and everything in a spreadsheet, text document, JSON file, or XML file
 
-<br />
+
+<hr>
+<br>
 The possibilities are endless for automating virtually anything based on triggers and web hooks. The same goes for events. For example:
 
 
@@ -96,11 +97,11 @@ The possibilities are endless for automating virtually anything based on trigger
 - A sequence of other events
 - A post on any news feed or blog with a particular category or topic
 
-<br />
+<br>
 To understand just how flexible and how endless the possibilities are, sign up for [IFTTT] and browse the applets yourself. 
 
 <hr>
-<br />
+<br>
 
 ## Unito
 
