@@ -17,7 +17,7 @@ highlighter: rouge
 <hr>
 <br>
 
-Defcast provides a lot of things but in the simplest terms it can be categorized as a company that makes it possible to send and receive content between `aircraft` and `devices` anywhere in the world in realtime. It's specialized for broadcast, government, and private entities although it's flexible enough to support the content being shared with millions of viewers too. Below are some examples of the tools and services involved. 
+In the simplest terms Defcast can be categorized as a company that makes it possible to send and receive content between `aircraft` and `devices` anywhere in the world in realtime. It's specialized for broadcast, government, and private entities although it's flexible enough to support the content being shared with millions of viewers too. Below are some examples of the tools and services involved. 
 
 <hr>
 <br>
