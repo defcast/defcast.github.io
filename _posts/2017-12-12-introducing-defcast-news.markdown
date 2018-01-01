@@ -12,8 +12,6 @@ There are far too many development environments, languages tools, and packagers 
 
 Then there are so many useless tutorials flooding the internet and Youtube that it takes maximum effort just to find one to help you with what you're looking for. It's nonsense.
 
-![Sandbox status]({{ ".._site/assets/sandbox-badge.svg" | absolute_url }})
-
 Here are some notes on this Jekyll based build:
 
  - It uses a template language called Liquid
@@ -21,8 +19,6 @@ Here are some notes on this Jekyll based build:
  - There is a little bit of a learning curve when it comes to understanding source control using Git repositories, figuring out what files generate what HTML and CSS (called preprocessing), and what changes to the layout should entail. That and you have to become familiar with the CSS naming convention.
  - I'm just happy I got the Sandbox badge status working. SVG will be a major part of making things look and behave well here.
  - I still to need to evaluate all of the available Jekyll plug-ins and consider my options for javascript, closure, and NoSQL
-
-Here's some code to take up some space and act as a cue for future CSS changes
 
 {% highlight ruby %}
     label[for="nav-trigger"]

@@ -17,6 +17,7 @@ highlighter: rouge
 <hr>
 <br>
 
+i'll go into more detail about each of these along with MANY more applications and tools later. In the meantime here are some screenshots of my most frequently used tools to date.
 
 ### Sublime Text
 
@@ -24,8 +25,43 @@ highlighter: rouge
 
 Sublime Text is a text editor that allows developers to add plug-ins (called packages) to enhance the features and functionality. The built-in features include a collapsable file explorer, tabbed file navigation, and a scroll map that provides a quick way to jump to sections in large files.
 
+#### Sublime Tutorial
+
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/SVkR1ZkNusI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-### Google Shaka Player
+#### Sublime Packages
 
-![shaka]({{ "/assets/img/shaka-log.png" | absolute_url }})
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/oHmPrjSzmwU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<hr>
+<br>
+
+### Browser Dev Tools
+
+#### Firefox Developer Toolbar
+
+![ff]({{ "/assets/img/shaka-log.png" | absolute_url }})
+
+#### Chrome Developer Tools
+
+![chrome]({{ "/assets/img/shaka-log.png" | absolute_url }})
+
+#### Safari Web Inspector
+
+![safari]({{ "/assets/img/shaka-log.png" | absolute_url }})
+
+#### Safari Options
+
+![safari]({{ "/assets/img/shaka-log.png" | absolute_url }})
+
+<hr>
+<br>
+
+### WordPress
+
+#### Built-in Theme Editor with Firefox Dev Tools
+
+![ff-wp]({{ "/assets/img/shaka-log.png" | absolute_url }})
+
+<hr>
+<br>

@@ -6,8 +6,7 @@ permalink: /about/
 
 # About Defcast News
 <br>
-<hr>
-<br>
+
 Defcast News is static site that uses `Front Matter` to generate the web pages and posts used for this site as well as components of other Defcast sites. Every line of code, every post, and every file used to create this site is open source and available at the [Defcast Github Repository](http://github.com/defcast/defcast.github.io).
 <hr>
 
