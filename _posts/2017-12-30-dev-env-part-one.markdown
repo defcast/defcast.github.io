@@ -18,7 +18,7 @@ highlighter: rouge
 
 <hr>
 <br>
-Part one of a series on the wide range of development environments, text editors, workspaces, management systems, packaging and build systems, and various other cools that I've been using to develop, test, and evaluate.
+Part one of a series on the wide range of development environments, text editors, workspaces, management systems, packaging and build systems, and various other tools that I've been using to develop, test, and evaluate.
 
 <hr>
 ### Integrated Development Environments
