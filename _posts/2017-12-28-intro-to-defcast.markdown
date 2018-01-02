@@ -16,11 +16,9 @@ highlighter: rouge
 
 <hr>
 <br>
-
 Defcast makes it possible to send and receive content between `aircraft` and `devices` anywhere in the world in realtime. It's specialized for broadcast, government, and private entities although it's flexible enough to support the content being shared with millions of viewers too. Below are some examples of the tools and services involved. 
 
 <hr>
-<br>
 ## Web Interface
 
 ![client]({{ "/assets/img/web-client.png" | absolute_url }})
