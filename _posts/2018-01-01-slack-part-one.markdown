@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Slack: The Future"
-date:   2018-01-01 18:47:00 -0800
+title:  "Slack: Part One"
+date:   2018-01-02 18:47:00 -0800
 categories: post
 author: Allen Wheeler
 highlighter: rouge
