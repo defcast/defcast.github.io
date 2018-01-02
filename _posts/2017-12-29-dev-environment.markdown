@@ -44,15 +44,15 @@ Sublime Text is a text editor that allows developers to add plug-ins (called pac
 
 #### Chrome Developer Tools
 
-![chrome]({{ "/assets/img/shaka-log.png" | absolute_url }})
+![chrome]({{ "/assets/img/chrome-tools.png" | absolute_url }})
 
 #### Safari Web Inspector
 
-![safari]({{ "/assets/img/shaka-log.png" | absolute_url }})
+![safari]({{ "/assets/img/safari-web.png" | absolute_url }})
 
 #### Safari Options
 
-![safari]({{ "/assets/img/shaka-log.png" | absolute_url }})
+![safari]({{ "/assets/img/safari-tools.png" | absolute_url }})
 
 <hr>
 <br>
@@ -61,7 +61,7 @@ Sublime Text is a text editor that allows developers to add plug-ins (called pac
 
 #### Built-in Theme Editor with Firefox Dev Tools
 
-![ff-wp]({{ "/assets/img/shaka-log.png" | absolute_url }})
+![ff-wp]({{ "/assets/img/fox-wp-tools.png" | absolute_url }})
 
 <hr>
 <br>

@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"Integ",
+				"Integration"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"req",
+				"require_once〔keyword〕"
+			],
+			[
+				"get_",
+				"get_custom_logo〔function〕"
+			],
+			[
+				"get_f",
+				"get_footer〔function〕"
+			],
+			[
+				"highli",
+				"highlighter-rouge"
+			],
+			[
+				"high",
+				"highlight"
+			],
+			[
+				"aval",
+				"avalon_classes"
+			],
+			[
+				"aVA",
+				"avalon-class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/minima.scss",
+			"settings":
+			{
+				"buffer_size": 1509,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/minima/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 30832,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 965,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2017-12-28-what-is-defcast.markdown",
+			"settings":
+			{
+				"buffer_size": 4333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: elsif"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"sv",
+				"SVGO: Prettify SVG"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_layouts",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_posts",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_sass",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_sass/minima",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/assets",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/assets/img"
+	],
+	"file_history":
+	[
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_posts/2017-12-28-task-management-suite.markdown",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_posts/2017-12-12-introducing-defcast-news.markdown",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/about.md",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_posts/2017-12-29-dev-environment.markdown",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/assets/img/git-dev-tools.png",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_posts/2017-12-28-what-is-defcast.markdown",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/_sass/minima/_base.scss",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/assets/img/asana-wp.png",
+		"/Users/DEFCAST/Sites/genesis/assets/img/asana-shaka.png",
+		"/Users/DEFCAST/Sites/defcast.github.io/defcast.github.io/assets/img/ifttt-asana.png",
+		"/Users/DEFCAST/Sites/genesis/_sass/minima.scss",
+		"/Users/DEFCAST/Sites/genesis/_sass/minima/_layout.scss",
+		"/Users/DEFCAST/Sites/genesis/_config.yml",
+		"/Users/DEFCAST/Sites/genesis/_posts/2017-12-28-asana-slack-github-ifttt.markdown",
+		"/Users/DEFCAST/Sites/genesis/_posts/2017-12-28-otter.markdown",
+		"/Users/DEFCAST/Sites/genesis/_posts/2017-12-12-introduction-to-the-sandbox.markdown",
+		"/Users/DEFCAST/Sites/genesis/about.md",
+		"/Users/DEFCAST/Sites/genesis/_sass/minima/_base.scss",
+		"/Users/DEFCAST/Sites/genesis/_posts/2017-12-28-gstreamer.markdown",
+		"/Users/DEFCAST/Sites/genesis/assets/img/unito.png",
+		"/Users/DEFCAST/Sites/genesis/assets/img/sublime-php.png",
+		"/Users/DEFCAST/Sites/genesis/assets/img/shaka-log.png",
+		"/Users/DEFCAST/Sites/genesis/assets/img/asana-wp.png",
+		"/Users/DEFCAST/Sites/genesis/assets/img/u105.png",
+		"/Users/DEFCAST/Sites/genesis/_includes/header.html",
+		"/Users/DEFCAST/Sites/genesis/_posts/2017-12-29-css-svg.markdown",
+		"/Users/DEFCAST/Sites/genesis/_includes/icon-defstat.svg",
+		"/Users/DEFCAST/Sites/genesis/_layouts/default.html",
+		"/Users/DEFCAST/Sites/genesis/_layouts/home.html",
+		"/Users/DEFCAST/Sites/genesis/_includes/badge-def.html",
+		"/Users/DEFCAST/Sites/genesis/assets/img/sandbox-badge.svg",
+		"/Users/DEFCAST/Sites/genesis/_sass/minima/_syntax-highlighting.scss",
+		"/Users/DEFCAST/Sites/genesis/_sass/mammoth/_syntax-highlighting.scss",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/inc/css/jekyll.css",
+		"/Users/DEFCAST/Sites/genesis/_layouts/post.html",
+		"/Users/DEFCAST/Sites/genesis/_layouts/page.html",
+		"/Users/DEFCAST/Sites/about.md",
+		"/Users/DEFCAST/Sites/genesis/_includes/footer.html",
+		"/Users/DEFCAST/Sites/genesis/_sass/mammoth/_base.scss",
+		"/Users/DEFCAST/Sites/genesis/assets/main.scss",
+		"/Users/DEFCAST/Desktop/CHPW.md",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/~avalon/page.html",
+		"/Users/DEFCAST/Sites/genesis/_sass/cairo/_layout.scss",
+		"/Users/DEFCAST/Sites/genesis/index.md",
+		"/Users/DEFCAST/Sites/genesis/README.md",
+		"/Users/DEFCAST/Sites/genesis/templates.md",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/~avalon/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/header.php",
+		"/Users/DEFCAST/Sites/genesis/_sass/cairo/_syntax-highlighting.scss",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/style.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/~avalon/css/avalon.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/~avalon/footer.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/inc/css/style.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/css/avalon.css",
+		"/Users/DEFCAST/Sites/badge-svgs.md",
+		"/Users/DEFCAST/Sites/wp-index.html",
+		"/Users/DEFCAST/Sites/wp-index.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/footer.php",
+		"/Users/DEFCAST/Sites/sandbox.html",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/page.html",
+		"/Users/DEFCAST/Sites/defcast/themes/allpurpose/footer.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/footer.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/header.php",
+		"/Users/DEFCAST/Desktop/build-stage.svg",
+		"/Users/DEFCAST/Sites/genesis/_includes/svg-badgers-and-icons.md",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/inc/badge-svgs.md",
+		"/Users/DEFCAST/Sites/SVG_README.md",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/snippets.md",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/cmd-db.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/_defines.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/cmd-panel.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/cmd-page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/index-bckp.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/cmd-center.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/post-template.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/functions.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/spider-content.yml",
+		"/Users/DEFCAST/Sites/spider/wp-config.php",
+		"/Users/DEFCAST/Library/Application Support/Sublime Text 3/Packages/User/WordPressDev.sublime-settings",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/kit/cmd-reset.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/assets/css/avalon.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/template-parts/post/content.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/template-parts/page/content-page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/inc/template-functions.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/functions.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/widgets.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/layout/page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/layout/page/content-front-page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/page.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/general-template.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/css/jekyll-reference.css",
+		"/Users/DEFCAST/Sites/spider/wp-includes/SimplePie/Cache/MySQL.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/post.php",
+		"/Users/DEFCAST/Sites/github-tokens.md",
+		"/Users/DEFCAST/Sites/spider/wp-includes/class-wp-query.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyseventeen/assets/css/colors-dark.css",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentysixteen/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentytwelve/page-templates/front-page.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyfourteen/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/query.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentytwelve/index.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyfifteen/header.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/post-formats.php",
+		"/Users/DEFCAST/Sites/spider/wp-includes/nav-menu-template.php",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/js/bootstrap.min.js",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/avalon/js/avalon.js",
+		"/Users/DEFCAST/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/DEFCAST/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/DEFCAST/Sites/spider/wp-content/themes/twentyfourteen/404.php",
+		"/Users/DEFCAST/Desktop/css card with link and hover.md",
+		"/Users/DEFCAST/Library/Application Support/Sublime Text 3/Packages/User/css_hover",
+		"/Users/DEFCAST/Sites/genesis/_data/_members.yml",
+		"/Users/DEFCAST/Sites/genesis/_data/_navigation.yml",
+		"/Users/DEFCAST/Sites/genesis/_layouts/cairo.html",
+		"/Users/DEFCAST/Sites/emmet.html",
+		"/Users/DEFCAST/Sites/genesis/_layouts/templates.html",
+		"/Users/DEFCAST/Sites/genesis/_plugins/signup_widget.html",
+		"/Users/DEFCAST/Sites/genesis/form_widget-with_variables.html",
+		"/Users/DEFCAST/Sites/genesis/_plugins/form_widget.html",
+		"/Users/DEFCAST/Sites/genesis/_plugins/imgc.rb",
+		"/Users/DEFCAST/Sites/genesis/_site/index.html",
+		"/Users/DEFCAST/Sites/genesis/_layouts/avalon.html",
+		"/Users/DEFCAST/Sites/genesis/_layouts/mammoth.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ul",
+			"$backg",
+			"article",
+			"post",
+			"articl",
+			"highlight",
+			"sandbox-badge",
+			"page-link",
+			"page-",
+			"hover",
+			"text-decoration:",
+			"before",
+			"visi",
+			"media",
+			"laptop",
+			"palm",
+			"site",
+			"visit",
+			"visited",
+			"site-title",
+			"site-3ejh43 fd4",
+			"header",
+			"hover",
+			"link",
+			"footer",
+			"visited",
+			"$text-color",
+			"header",
+			"pre",
+			"figure",
+			"article",
+			"pre",
+			"sr",
+			"yaml",
+			"language",
+			"languag",
+			"SECTION",
+			"new_files",
+			"text",
+			"menu",
+			"embed",
+			"?>>",
+			"nav",
+			".badge",
+			"badge",
+			"col-",
+			".site-nav",
+			"git",
+			"icon",
+			"icons",
+			"github",
+			".site-nav",
+			"code",
+			"img",
+			"yahoo",
+			"icon",
+			"rss",
+			"rss-subscribe",
+			"site-footer",
+			"rss",
+			"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/minima.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/minima/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17582,
+								17582
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2017-12-28-what-is-defcast.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/DEFCAST/Sites/genesis/genesis.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
