@@ -6,8 +6,8 @@ categories: task management
 author: Allen Wheeler
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][repos-sync]
-[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec]
+[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][repos-sync] | 
+[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec] | 
 [![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
 
 [repos-sync]: https://defcast.github.io

@@ -6,8 +6,8 @@ categories: post
 author: Allen Wheeler
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync]
-[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec]
+[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync] | 
+[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec] | 
 [![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
 
 [sandbox-sync]: https://defcast.github.io
