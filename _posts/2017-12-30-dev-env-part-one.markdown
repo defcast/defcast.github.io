@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Development Tools: Part One"
-date:   2017-12-29 15:33:00 -0800
+date:   2017-12-30 15:33:00 -0800
 categories: dev
 author: Allen Wheeler
 highlighter: rouge
