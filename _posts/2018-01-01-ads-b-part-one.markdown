@@ -29,9 +29,9 @@ ADS-B, Mode-S and FLARM are secondary surveillance radar collision avoidance det
 
 `Frequency: 1090 MHz`
 
-ADS-B makes it possible to have `redundant telemetry` for antenna tracking. This means that if a data link is dropped due to range, blockage, or issues with the aircrafts antenna alignment then the ground antenna can continue tracking the aircraft since it's using an alternative source of telemetry from either a network stream, a software defined radio, or both (even more redundancy). If there is no network available then the 1090 MHz radio signal will provide the telemetry, otherwise the network stream is preferred because the range of coverage for the stream is basically limitless while the software defined radio is limited to the range based on the antenna and amplifier while also being succeptible to interference.
+ADS-B makes it possible to have `redundant telemetry` for antenna tracking. This means that if a data link is dropped due to range, blockage, or issues with the aircrafts antenna alignment then the ground antenna can continue tracking the aircraft since it's using an alternative source of telemetry from either a network stream, a software defined radio, or both (even more redundancy). If there is no network available then the 1090 MHz radio signal will provide the telemetry, otherwise the network stream is preferred because the range of coverage for the stream is basically limitless while the software defined radio is limited to the range based on the antenna and amplifier while also being susceptible to interference.
 
-The `velocity` and `rate of climb or descent` can be used to calulcate the rate that the tracking antenna should move up or down. If telemetry should fail this could be useful for continuing to track provided no sudden changes in the flight path occur. The same goes for `position, heading, and velocity`. Predicting where the aircraft will be in addition to calculating antenna orientation based on current navigation data can be useful in the event something goes wrong or as a way to supplement ADS-B should the frequency of received messages need to be metered (cost or bandwidth for instance).
+The `velocity` and `rate of climb or descent` can be used to calculcate the rate that the tracking antenna should move up or down. If telemetry should fail this could be useful for continuing to track provided no sudden changes in the flight path occur. The same goes for `position, heading, and velocity`. Predicting where the aircraft will be in addition to calculating antenna orientation based on current navigation data can be useful in the event something goes wrong or as a way to supplement ADS-B should the frequency of received messages need to be metered (cost or bandwidth for instance).
 
 `Prediction` can be taken another step further by collecting telemetry from the entire flight as well as prior flights to identify patterns for use in antenna alignment.
 
@@ -39,7 +39,7 @@ Displaying whether an aircraft is `climbing`, `level`, or `descending` can be di
 
 The following data is provided through ADS-B:
 
-- Aircraft ID and Callsign
+- Aircraft ID and Call Sign
 - GPS Position: Latitude, Longitude, Altitude
 - Velocity
 - Heading
@@ -53,7 +53,7 @@ The following data is provided through ADS-B:
 
 The `aircraft ID` is significant because it can be used to allow the selection of a specific aircraft for antenna tracking from a map or user input. In a scenario where there the airspace is congested all other aircraft information can be filtered out from both the display and the telemetry.
 
-The `meteorological information` can and should be used for identifying when a data link range may be affected by `weak signal propogation` conditions due to the weather.
+The `meteorological information` can and should be used for identifying when a data link range may be affected by `weak signal propagation` conditions due to the weather.
 
 Aircraft aren't required to share their latitude and longitude (only the altitude is required) through ADS-B, but this information can be obtained using MLAT (Multilateration aka Hyperbolic Navigation) in the event it's not provided.
 
