@@ -85,11 +85,11 @@ It includes:
 
 Chrome has a built-in toolbar that lets developers examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile.
 
-It comes with:
+It comes with tools for:
 
 - Elements
 - Resources
-- Network
+- Network performance
 - Sources
 - Timeline
 - Profiles
