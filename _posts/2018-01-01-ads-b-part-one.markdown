@@ -4,6 +4,7 @@ title:  "ADS-B: Part One"
 date:   2018-01-02 18:47:00 -0800
 categories: post
 author: Allen Wheeler
+description: "A brief rundown on automatic dependent surveillance broadcast"
 highlighter: rouge
 ---
 [![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync] | 
