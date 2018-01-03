@@ -30,7 +30,7 @@ The `velocity` and `rate of climb or descent` can be used to calculcate the rate
 
 `Prediction` can be taken another step further by collecting telemetry from the entire flight as well as prior flights to identify patterns for use in antenna alignment.
 
-Displaying whether an aircraft is `climbing`, `level`, or `descending` can be displayed based on the rate of ascent/descent in addition to current altitude for assisting operators who may be intimidated or overwhelmed with the amount of information on a screen and would benefit from seeing data in simple terms. This can be applied to many other things too.
+Showing whether an aircraft is `climbing`, `level`, or `descending` can be displayed based on the rate of ascent/descent in addition to current altitude for assisting operators who may be intimidated or overwhelmed with the amount of information on a screen and would benefit from seeing data in simple terms. This can be applied to many other things too.
 
 The following data is provided through ADS-B:
 
