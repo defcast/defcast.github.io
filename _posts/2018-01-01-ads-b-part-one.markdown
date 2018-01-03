@@ -7,20 +7,14 @@ author: Allen Wheeler
 description: "A brief rundown on automatic dependent surveillance broadcast"
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync] | 
-[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec] | 
-[![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
-
 [sandbox-sync]: https://defcast.github.io
-[page-sec]: https://sks-keyservers.net/
-[cipher]: https://en.wikipedia.org/wiki/Cipher
 [ADS-B Wiki]: https://en.wikipedia.org/wiki/Automatic_dependent_surveillance_%E2%80%93_broadcast
 [Mode-S Wiki]: https://en.wikipedia.org/wiki/FLARM
 [FLARM Wiki]: https://en.wikipedia.org/wiki/Aviation_transponder_interrogation_modes#Mode_S
 [FlightAware]: https://en.wikipedia.org/wiki/FLARM
 [FlightRadar]: https://flightradar24.com
 [OpenSky Network]: https://opensky-network.org/
-
+[![sync](http://img.shields.io/badge/repository-synced-brightgreen.svg)][sandbox-sync]
 <hr>
 <br>
 ADS-B, Mode-S and FLARM are secondary surveillance radar collision avoidance detection systems installed in all types of aircraft from drones to gliders to helicopters to airplanes. They use GPS, INS, and other sensors to transmit information about their location and flight path among other things. By 2020 every aircraft in the world is set to have ADS-B installed. This article describes why this is significant and how this will impact data links.
