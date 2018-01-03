@@ -6,16 +6,11 @@ categories: dev
 author: Allen Wheeler
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][sandbox-sync] | 
-[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec] | 
-[![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
+[![sync](http://img.shields.io/badge/repository-synced-brightgreen.svg)][sandbox-sync]
 
 [sandbox-sync]: https://defcast.github.io
-[page-sec]: https://sks-keyservers.net/
-[cipher]: https://en.wikipedia.org/wiki/Cipher
 [Eclipse]: https://www.eclipse.org/
 [Eclipse Che]: https://www.eclipse.org/che/
-
 <hr>
 <br>
 Part one of a series on the wide range of development environments, text editors, workspaces, management systems, packaging and build systems, and various other tools that I've been using to develop, test, and evaluate.

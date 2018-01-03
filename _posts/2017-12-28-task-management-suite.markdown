@@ -6,20 +6,15 @@ categories: task management
 author: Allen Wheeler
 highlighter: rouge
 ---
-[![sync](http://img.shields.io/badge/repository-synced-blue.svg)][repos-sync] | 
-[![sec](https://img.shields.io/badge/pgp-secure-green.svg)][page-sec] | 
-[![aes](https://img.shields.io/badge/cipher-sha256-orange.svg)][cipher]
+[![sync](http://img.shields.io/badge/repository-synced-brightgreen.svg)][repos-sync]
 
 [repos-sync]: https://defcast.github.io
-[page-sec]: https://sks-keyservers.net/
-[cipher]: https://en.wikipedia.org/wiki/Cipher
 [asana-shaka]: /assets/img/asana-shaka.png
 [IFTTT]: https://ifttt.com/signup
 [Tray.io]: https://tray.io
 [Github]: https://github.com
 [Asana]: https://asana.com
 [Unito]: https://unito.io
-
 <hr>
 <br>
 
