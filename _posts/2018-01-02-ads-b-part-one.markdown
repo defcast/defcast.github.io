@@ -42,7 +42,7 @@ The following data is provided through ADS-B:
 - Track angle
 - Rate of ascent/descent
 - Timestamp
-- Meteorological Information (windspeed and direction, temperature, barometric pressure, humidity)
+- Meteorological Information (wind speed and direction, temperature, barometric pressure, humidity)
 <br>
 <br>
 
