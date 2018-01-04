@@ -48,7 +48,7 @@ The following data is provided through ADS-B:
 
 The `aircraft ID` is significant because it can be used to allow the selection of a specific aircraft for antenna tracking from a map or user input. In a scenario where the airspace is congested all other aircraft information can be filtered out from both the display and the telemetry.
 
-The `meteorological information` can be used for identifying when a data link range may be affected by `weak signal propagation` conditions due to the weather.
+The `meteorological information` can be used for identifying when a data link's range may be affected by `weak signal propagation` conditions due to the weather.
 
 Aircraft aren't required to share their latitude and longitude (only the altitude is required) through ADS-B, but this information can be obtained using MLAT (Multilateration aka Hyperbolic Navigation) in the event it's not provided.
 
