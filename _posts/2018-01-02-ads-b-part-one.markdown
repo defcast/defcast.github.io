@@ -46,7 +46,7 @@ The following data is provided through ADS-B:
 <br>
 <br>
 
-The `aircraft ID` is significant because it can be used to allow the selection of a specific aircraft for antenna tracking from a map or user input. In a scenario where there the airspace is congested all other aircraft information can be filtered out from both the display and the telemetry.
+The `aircraft ID` is significant because it can be used to allow the selection of a specific aircraft for antenna tracking from a map or user input. In a scenario where the airspace is congested all other aircraft information can be filtered out from both the display and the telemetry.
 
 The `meteorological information` can and should be used for identifying when a data link range may be affected by `weak signal propagation` conditions due to the weather.
 
