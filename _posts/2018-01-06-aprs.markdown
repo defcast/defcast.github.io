@@ -3,7 +3,7 @@ layout: post
 title:  "APRS"
 date:   2018-01-06 20:01:00 -0800
 categories: post
-author: Michael Wheeler W1VI
+author: Michael Wheeler  W1VI
 highlighter: rouge
 ---
 [![sync](http://img.shields.io/badge/repository-synced-brightgreen.svg)][sandbox-sync]
@@ -13,9 +13,9 @@ highlighter: rouge
 <hr>
 <br>
 
-APRS (Automatic Packet Reporting System) is one of the more popular VHF/UHF local area operating modes. The VRT Belgium TV service provider used this scheme to keep track of motorcycles and other vehicles while covering cycle races all over Europe. This [Wiki] article offers a decent description of this amateur radio operating mode. I use this mode from home and could easily exchange text messages with any other APRS equipped station. There are Internet gateway nodes as well as some stations that have weather reporting capabilities.  Also, mobile stations with built-in GPS receivers broadcast their geographical positions as they are moving.  Pretty cool.
+APRS (Automatic Packet Reporting System) is one of the more popular VHF/UHF local area operating modes.  The VRT Belgium TV service provider uses this scheme to keep track of motorcycles and other vehicles while covering cycle races all over Europe.  This [Wiki] article offers a decent description of this amateur radio operating mode.  I use this mode from home and could easily exchange text messages with any other APRS equipped station.  There are Internet gateway nodes as well as some stations that have weather reporting capabilities.  Also, mobile stations with built-in GPS receivers broadcast their geographical positions as they are moving.  Pretty cool.
 
-Below is a screen capture taken a few moments ago from my APRS mapping software.  These are the stations currently on-the-air in the area covered by stations within reach of each other. W1VI is amongst the stations currently active. I occasionally see the ARRL station (W1AW) in Newington, CT check in (just south of Hartford, CT). You might also notice a couple of mobile stations moving along the highways.
+Below is a screen capture taken a few moments ago from my APRS mapping software.  These are the stations currently on-the-air in the area covered by stations within reach of each other.  W1VI is amongst the stations currently active. I occasionally see the ARRL station (W1AW) in Newington, CT check in (just south of Hartford, CT).  You might also notice a couple of mobile stations moving along the highways.
 
 ![aprs]({{ "/assets/img/aprs-map.jpg" | absolute_url }}) 
 
@@ -23,15 +23,15 @@ By right-clicking on a station icon you are able to see most of the station para
 
 ![station]({{ "/assets/img/aprs-station.jpg" | absolute_url }}) 
 
-This station offers an iGate (Internet Gateway) which permits forwarding Email and files to other stations outside the local area node. In any case there are a ton of features that go with this digital operating mode.
+This station offers an iGate (Internet Gateway) which permits forwarding Email and files to other stations outside the local area node.  In any case there are a ton of features that go with this digital operating mode.
 
-Several amateur radio equipment manufacturers offer APRS UHF and VHF transceivers. Below is an example of one such product.
+Several amateur radio equipment manufacturers offer APRS UHF and VHF transceivers.  Below is an example of one such product.
 
 ![th]({{ "/assets/img/th-d7a.jpg" | absolute_url }}) 
 
 These transceivers have built-in packet TNC’s (Terminal Node Controller) which means they have the capability of transmitting their geographical location when transmitting.
 
-This is just one of the capabilities hams have at their disposal in this age of digital communications. Keep in mind that most digital modes include error corrections which means they can deliver traffic under very trying conditions.
+This is just one of the capabilities hams have at their disposal in this age of digital communications.  Keep in mind that most digital modes include error corrections which means they can deliver traffic under very trying conditions.
 
 <hr>
 
