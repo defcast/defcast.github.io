@@ -15,7 +15,7 @@ highlighter: rouge
 
 APRS (Automatic Packet Reporting System) is one of the more popular VHF/UHF local area operating modes. The VRT Belgium TV service provider used this scheme to keep track of motorcycles and other vehicles while covering cycle races all over Europe. This [Wiki] article offers a decent description of this amateur radio operating mode. I use this mode from home and could easily exchange text messages with any other APRS equipped station. There are Internet gateway nodes as well as some stations that have weather reporting capabilities.  Also, mobile stations with built-in GPS receivers broadcast their geographical positions as they are moving.  Pretty cool.
 
-Below is a screen capture taken a few moments ago from my APRS mapping software.  These are the stations currently on-the-air in the area covered by stations within reach of each other.  You might notice station W1VI amongst the stations currently active.  I occasionally see the ARRL station (W1AW) in Newington, CT check in (just south of Hartford, CT).  You might also notice a couple of mobile stations moving along the highways.
+Below is a screen capture taken a few moments ago from my APRS mapping software.  These are the stations currently on-the-air in the area covered by stations within reach of each other. W1VI is amongst the stations currently active. I occasionally see the ARRL station (W1AW) in Newington, CT check in (just south of Hartford, CT). You might also notice a couple of mobile stations moving along the highways.
 
 ![aprs]({{ "/assets/img/aprs-map.jpg" | absolute_url }}) 
 
